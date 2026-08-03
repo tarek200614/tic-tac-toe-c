@@ -179,7 +179,7 @@ Moves
 
 # 📸 Screenshots
 
-Add screenshots of:
+The screenshots are in assets/screenshots/ :
 
 - Home Menu
 - Player Registration
