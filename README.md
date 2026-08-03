@@ -176,7 +176,7 @@ Moves
 ---
 ```
 
-
+---
 # 📈 Future Improvements
 
 - Single-player mode (AI)
