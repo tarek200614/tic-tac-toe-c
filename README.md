@@ -173,32 +173,7 @@ Moves
 2. Player O -> (2,2)
 3. Player X -> (1,2)
 ...
-```
-
 ---
-
-# 📸 Screenshots
-
-The screenshots are in assets/screenshots/ :
-
-- Home Menu
-- Player Registration
-- Empty Board
-- Gameplay
-- Winner Screen
-- Draw Screen
-- Game History
-
-```
-assets/screenshots/
-├── menu.png
-├── players.png
-├── board.png
-├── gameplay.png
-├── winner.png
-├── draw.png
-└── history.png
-```
 
 ---
 
