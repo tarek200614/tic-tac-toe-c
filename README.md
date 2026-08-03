@@ -174,8 +174,8 @@ Moves
 3. Player X -> (1,2)
 ...
 ---
+```
 
----
 
 # 📈 Future Improvements
 
